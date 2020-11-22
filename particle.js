@@ -1,0 +1,13 @@
+class Partical{
+
+    constructor(){
+
+
+    }
+
+
+    display(){
+
+        
+    }
+}
